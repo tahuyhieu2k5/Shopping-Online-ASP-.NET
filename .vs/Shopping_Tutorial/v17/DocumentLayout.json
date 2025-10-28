@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RoG\\OneDrive\\Desktop\\Shopping-Online-ASP-.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57363B08-35DB-2A11-474C-0163D79E223E}|Shopping_Tutorial.csproj|c:\\users\\rog\\onedrive\\desktop\\shopping-online-asp-.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57363B08-35DB-2A11-474C-0163D79E223E}|Shopping_Tutorial.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57363B08-35DB-2A11-474C-0163D79E223E}|Shopping_Tutorial.csproj|c:\\users\\rog\\onedrive\\desktop\\shopping-online-asp-.net\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57363B08-35DB-2A11-474C-0163D79E223E}|Shopping_Tutorial.csproj|solutionrelative:repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RoG\\OneDrive\\Desktop\\Shopping-Online-ASP-.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RoG\\OneDrive\\Desktop\\Shopping-Online-ASP-.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:15:46.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\RoG\\OneDrive\\Desktop\\Shopping-Online-ASP-.NET\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\RoG\\OneDrive\\Desktop\\Shopping-Online-ASP-.NET\\Repository\\DataContext.cs",
+              "RelativeToolTip": "Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:15:32.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

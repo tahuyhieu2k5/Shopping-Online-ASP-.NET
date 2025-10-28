@@ -17,277 +17,277 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shopping_Tutorial
 build_property.RootNamespace = Shopping_Tutorial
-build_property.ProjectDir = C:\Users\RoG\Downloads\ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf\
+build_property.ProjectDir = C:\Users\RoG\OneDrive\Desktop\Shopping-Online-ASP-.NET\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\RoG\Downloads\ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf
+build_property.MSBuildProjectDirectory = C:\Users\RoG\OneDrive\Desktop\Shopping-Online-ASP-.NET
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Brand/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Brand/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Brand/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Brand/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Brand/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Category/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Category/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Category/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Contact/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Contact/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Contact/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Coupon/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Coupon/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cG9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Dashboard/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Order/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Order/ViewOrder.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Order/ViewOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcVmlld09yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Product/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Product/CreateProductQuantity.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Product/CreateProductQuantity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0UXVhbnRpdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Product/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Product/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Role/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Role/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Role/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Role/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Role/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Role/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/_Paging.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/_Paging.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9QYWdpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/_SidebarPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/_SidebarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shipping/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shipping/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Slider/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Slider/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Slider/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Slider/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Slider/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Slider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/User/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/User/Edit.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/User/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Account/Create.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Account/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Account/ForgotPass.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Account/ForgotPass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Account/History.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Account/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Account/Login.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Account/NewPass.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Account/NewPass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxOZXdQYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Brand/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Cart/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Category/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/Compare.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/Compare.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wYXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/Contact.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/NotFound.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RGb3VuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/Privacy.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Home/Wishlist.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Home/Wishlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaXNobGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Payment/PaymentResult.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Payment/PaymentResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50UmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Product/Detail.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Product/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Product/Search.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Product/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Realtime/Index.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Realtime/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbHRpbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/Components/Brands/Default.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/Components/Brands/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnJhbmRzXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/Components/Categories/Default.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/Components/Footer/Default.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/Error.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_FilterProducts.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_FilterProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_FooterPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_NotificationPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_SidebarPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_SidebarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_SliderPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_SliderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbGlkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/_ViewImports.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/_ViewStart.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dezf3mdjbt
 
-[C:/Users/RoG/Downloads/ASP-Webbanhang-Net8-edc505faaff0ea35c1a342488b8a9ca9d7841bbf/Views/Shared/_Layout.cshtml]
+[C:/Users/RoG/OneDrive/Desktop/Shopping-Online-ASP-.NET/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pj4z9kxvly
