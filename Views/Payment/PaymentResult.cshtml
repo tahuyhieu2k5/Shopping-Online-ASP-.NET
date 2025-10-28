@@ -1,0 +1,20 @@
+﻿@model Shopping_Tutorial.Models.Vnpay.PaymentResponseModel
+
+@{
+    ViewData["Title"] = "Kết quả thanh toán VNPay";
+}
+
+<h2>Kết quả thanh toán</h2>
+
+<p>@ViewBag.Message</p>
+
+@if (Model != null)
+{
+    <ul>
+        <li><strong>Mã giao dịch:</strong> @Model.TransactionId</li>
+        <li><strong>Đơn hàng:</strong> @Model.OrderId</li>
+        <li><strong>Phương thức:</strong> @Model.PaymentMethod</li>
+        <li><strong>Trạng thái:</strong> @(Model.Success ? "Thành công" : "Thất bại")</li>
+        <li><strong>Mã phản hồi:</strong> @Model.VnPayResponseCode</li>
+    </ul>
+}
