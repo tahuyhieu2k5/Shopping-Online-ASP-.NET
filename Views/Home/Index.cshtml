@@ -3,6 +3,57 @@
     ViewData["Title"] = "Web bán hàng ASP.NET8";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+
+<style>
+	/* Giới hạn tên sản phẩm trên 1 dòng và hiển thị "..." nếu quá dài */
+	.productinfo p:first-of-type {
+		white-space: nowrap; /* không xuống dòng */
+		overflow: hidden; /* ẩn phần bị tràn */
+		text-overflow: ellipsis; /* thêm dấu ... */
+		display: block;
+		width: 100%;
+		font-weight: 600;
+		min-height: 22px; /* giữ chiều cao đều nhau nếu có tên ngắn/dài */
+	}
+
+	/* Căn chỉnh nút yêu thích và so sánh đều nhau */
+	.choose .nav-pills {
+		display: flex;
+		justify-content: space-between;
+		gap: 8px;
+		padding: 0 5px;
+	}
+
+		.choose .nav-pills li {
+			flex: 1;
+		}
+
+	.choose .btn {
+		width: 100%;
+		font-size: 14px;
+		padding: 6px 0;
+		border-radius: 6px;
+	}
+
+	/* Căn giữa nội dung thẻ sản phẩm */
+	.productinfo {
+		min-height: 340px; /* giữ chiều cao đồng đều giữa các thẻ */
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+		/* Tùy chọn: căn hình và thông tin đẹp hơn */
+		.productinfo img {
+			object-fit: cover;
+			border-radius: 8px;
+		}
+
+	.add-btn-compare{
+		margin-top: 0px !important;
+	}
+</style>
+
 <partial name="_SliderPartial"  />
 <div class="col-sm-3">
 	<partial name="_SidebarPartial" />
@@ -36,7 +87,9 @@
 							}
 							else
 							{
-								<button class="btn btn-default add-to-cart" data-product_id="@item.Id"><i class="fa fa-shopping-cart"></i>Thêm giỏ hàng</button>
+								<button class="btn btn-default add-to-cart" style="margin-left: 13px;margin-right: 13px; border-radius: 6px;" data-product_id="@item.Id">
+									<i class="fa fa-shopping-cart"></i>Thêm giỏ hàng
+								</button>
 							}
 							
 						
